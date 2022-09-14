@@ -11,6 +11,7 @@ namespace HelloWorld7
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World 6!");
+            Console.WriteLine("Cody JW");
             Console.ReadKey(true);
         }
     }
